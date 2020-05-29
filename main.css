@@ -1,0 +1,15 @@
+
+  @media (min-width: 500px) {
+    .container {
+        display: grid;
+        grid-template-columns: 1fr;
+      }
+  }
+
+  @media (min-width: 700px) {
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+
+      }
+  }
